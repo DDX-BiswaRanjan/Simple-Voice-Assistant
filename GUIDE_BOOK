@@ -1,0 +1,82 @@
+
+[ NORMAL CHAT INTERACTIONS ]         [ NCVC --> NORMAL CHAT VOICE COMMANDS ]
+
+NCVC 1.) "Who are You?"
+--> Replies that it is a voice assistant and made by Biswaranjan Nayak.
+
+NCVC 2.) "You are good"
+--> Thanks you for that comment.
+
+NCVC 3.) "Tell me some jokes"
+--> Randomly selects a joke and replies it.
+
+NCVC 4.) "How are you?"
+--> Replies positive and also asks the same for to the user.
+    Case 1. If user replies positively:
+            --> Then it replies wishing for a great day
+    Case 2. If user replies negatively:
+            --> Then it replies by giving some hopes
+                that everything will be fine soon.
+
+NCVC 5.) "Make me laugh"
+--> Randomly selects a joke and replies it.
+
+NCVC 6.) "You are nice"
+--> Thanks you for that comment.
+
+NCVC 7.) "You are awesome"
+--> Thanks you for that comment.
+
+NCVC 8.) "Who made You?"
+--> Replies that it is a voice assistant and made by Biswaranjan Nayak.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+[ SEARCHING ONLINE INTERACTIONS ]       [ SOVC --> SEARCHING ONLINE VOICE COMMANDS ]
+
+SOVC 1.) "Search <Say Something>"
+--> It at first replies that it is searching it in google and
+    the System opens the google automatically and search the required word
+    on Google.
+
+    Example:
+        C. "Search Python"
+        --> The System will open google automatically and search Python
+            and you can see the result page.
+
+
+SOVC 2.) "Google <Say Something>"
+--> It does the same task as in SOVC 1
+
+SOVC 3.) "Search <Say Something> on Google"
+--> It does the same task as in SOVC 1
+
+SOVC 4.) "Play <Say Something>"
+--> The system will load the youtube and will search the desired statement in youtube.
+    You will be able to see the result page in youtube and the video will be played.
+
+    Example:
+        C. "Play Happy Birthday Song"
+        --> The System will open youtube automatically and search Happy Birthday Song
+            and you will play the song on youtube.
+
+SOVC 5.) "Play <Say Something> video"
+--> It does the same task as in SOVC 4
+
+SOVC 6.) "Play <Say Something> video on youtube"
+--> It does the same task as in SOVC 4
+
+SOVC 7.) "what is the meaning of <word>?"
+--> It will find the meaning in dictionary and will explain with four definitions of
+    the desired word
+
+SOVC 8.) "What is the definition of <word>?"
+--> It does the same task as in SOVC 7
+
+SOVC 9.) "Define <word>?"
+--> It does the same task as in SOVC 7
+
+
+
+
